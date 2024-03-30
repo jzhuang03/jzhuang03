@@ -1,8 +1,22 @@
-<h1 align="center">Hello! I'm Jennifer 🍀 </h1> 
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hi!, I'm
+                <b>Jennifer</b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a Junior from Mount Holyoke College, studying <b> Environmental Studies & Computer Science </b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 <h2 style="text-align: center;"> 🌱 ABOUT ME </h2>
 <ul style="text-align: center;">
-  <li>🔭 Junior at Mount Holyoke College</li>
   <li>📚 I'm currently learning C, Javascript, HTML, CSS, and React.js!</li>
   <li>🏙️ In my free time I enjoy enhancing my programming abilities and broadening my knowledge of environmental issues</li>
   <li>💬 I’m looking for internship opportunities in Technology and Sustainability</li>
