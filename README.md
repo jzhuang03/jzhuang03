@@ -8,7 +8,6 @@
 
 <p align="center"> 
   <samp>
-    <br>
     「 I am a Junior from Mount Holyoke College, studying <b> Environmental Studies & Computer Science </b> 」
     <br>
     <br>
