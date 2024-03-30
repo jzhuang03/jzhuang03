@@ -1,3 +1,26 @@
+<h1 align="center">Hello!, I'm Jennifer 🍀 </h1>
+
+<div style="float>
+ 
+```go
+def hello_world():
+    print("I hope to forge a connection between technology and environmentalism!")
+
+def main():
+    about = {
+        "Name": "Jennifer",
+        "Pronouns": "She / Her",
+        "Currently Learning": C, JavaScript, HTML, CSS, and React.js.
+        "Expected Graduation": "May '25"
+    }
+
+    hello_world()
+
+if __name__ == "__main__":
+    main()
+```
+</div>
+ 
  ### 💫 ABOUT :
 🔭 Junior at Mount Holyoke College
 📚 I'm currently learning C, Javascript, HTML, CSS, and React.js!
