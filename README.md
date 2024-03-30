@@ -1,26 +1,21 @@
-<h1 align="center">Hello!, I'm Jennifer 🍀 </h1>
+<h1 align="center">Hello! I'm Jennifer 🍀 </h1>
 
 <div style="float>
  
+<div style="float: right; padding-right">
+    
 ```go
-def hello_world():
-    print("I hope to forge a connection between technology and environmentalism!")
+func Hello() {
+    fmt.Println("")
+}
 
-def main():
-    about = {
-        "Name": "Jennifer",
-        "Pronouns": "She / Her",
-        "Currently Learning": C, JavaScript, HTML, CSS, and React.js.
-        "Expected Graduation": "May '25"
+func main() {
     }
-
-    hello_world()
-
-if __name__ == "__main__":
-    main()
+    sayHello() 
 ```
-</div>
- 
+
+</div> 
+
  ### 💫 ABOUT :
 🔭 Junior at Mount Holyoke College
 📚 I'm currently learning C, Javascript, HTML, CSS, and React.js!
