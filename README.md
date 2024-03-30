@@ -14,14 +14,14 @@
   </samp>
 </p>
 
-<h2 style="text-align: center;"> 🌱 ABOUT ME </h2>
-<ul style="text-align: center;">
+<h2 align="center"> 🌱 ABOUT ME </h2>
+<ul style="align: center;">
   <li>📚 I'm currently learning C, Javascript, HTML, CSS, and React.js!</li>
   <li>🏙️ In my free time I enjoy enhancing my programming abilities and broadening my knowledge of environmental issues</li>
   <li>💬 I’m looking for internship opportunities in Technology and Sustainability</li>
 </ul>
 
-<h2 style="text-align: center;"> 🌵 LANGUAGES </h2>
+<h2 align="center"> 🌵 LANGUAGES </h2>
 <p style="text-align: center;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
