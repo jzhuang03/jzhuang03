@@ -19,7 +19,7 @@
   <li>📚 I'm currently learning C, Javascript, HTML, CSS, and React.js!</li>
   <li>🏙️ In my free time I enjoy enhancing my programming abilities and broadening my knowledge of environmental issues</li>
   <li>💬 I’m looking for internship opportunities in Technology and Sustainability</li>
-<li>🌿 I am currently working on a web project research IoT and Smart Cities </li>
+<li>🌿 I am currently working on a web project research on IoT and Smart Cities </li>
 </ul>
 
 <h2 align="center"> 🌵 LANGUAGES </h2>
