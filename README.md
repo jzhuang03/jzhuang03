@@ -10,9 +10,14 @@
   <samp>
     「 I am a Junior from Mount Holyoke College, studying <b> Environmental Studies & Computer Science </b> 」
     <br>
+          <div style="margin: 0 auto; padding-left: 20px; width: 50%;">
+    <img align="center" alt="coding" width="100%" 
+         src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+</div>
     <br>
   </samp>
 </p>
+
 
 <h2 align="center"> 🌱 ABOUT ME </h2>
 <ul style="align: center;">
