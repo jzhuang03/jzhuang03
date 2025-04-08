@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a Junior from Mount Holyoke College, studying <b> Computer Science & Environmental Studies </b> 」
+    「 I am a Senior from Mount Holyoke College, studying <b> Computer Science & Environmental Studies </b> 」
     <br>
           <br>
             <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="centered image" style="text-align: center;" width="45%">
@@ -19,10 +19,10 @@
 
 <h2 align="center"> 🌱 ABOUT ME </h2>
 <ul style="align: center;">
-  <li>📚 I'm currently learning C, Javascript, HTML, CSS, and React.js!</li>
-  <li>🏙️ In my free time I enjoy enhancing my programming abilities and broadening my knowledge of environmental issues</li>
-  <li>💬 I’m looking for internship opportunities in Climate Change + AI/ML and Cybersecurity </li>
-<li>🌿 I am currently learning GenAI for Beginners </li>
+  <li>📚 I’m a senior passionate about cybersecurity, cloud technologies, and IT infrastructures. </li>
+  <li>🏙️ In my free time, I love enhancing my programming skills and staying informed on environmental and sustainability issues. </li>
+  <li>💬 I am currently in the process of obtaining additional certifications such as AWS Certified Cloud Practitioner. </li>
+<li>🌿 I have experience in full-stack development and a strong understanding of Agile methodologies.</li>
 </ul>
 
 <h2 align="center"> 🌵 LANGUAGES </h2>
