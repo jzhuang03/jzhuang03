@@ -19,9 +19,8 @@
 
 <h2 align="center"> 🌱 ABOUT ME </h2>
 <ul style="align: center;">
-  <li>📚 Since graduation I've moved away from SWE, and realized my passion for IT Infrastructure (Cloud, DevOps). </li>
+  <li>📚 Since graduation I've moved away from Full-Stack Development, and realized my passion for IT Infrastructure (however I enjoy developing in my free time!!). </li>
   <li>🏙️ During my free time, I enjoy being a foodie. I am trying to explore new hobbies such as cooking and reading. </li>
-  <li>💬 I am currently working in IT at a Sports Management non-profit organization, where I am strengthening my skills in Networking and Servers ontop of my Consultant/Desktop Analyst role. </li>
   <li>🌿 During undergrad, I gained experience in Natural Language Processing, Cybersecurity, and full-stack development with a strong understanding of Agile methodologies.</li>
   <li>🎯 My goal in the start of the 2026 is to obtain certifications such as AWS Certified Cloud Solutions Architect, to achieve my career milestone as a SysAdmin or Cloud Engineer </li>
 </ul>
